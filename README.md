@@ -4,13 +4,40 @@
 
 <h1 align="center">100-days-of-python-code</h1>
  
-### Este repositório contém atividades e códigos em Python para estudos realizados durante 100 dias.
+### Este repositório contém atividades e códigos em Python com o objetivo de registrar estudos realizados durante o período de 100 dias.
 
 <p align="center"> 
 <img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/code.jpg">
 </p>
 
 ###### "Coding [day 102]" por gerlos é licenciada com CC BY-ND 2.0. Para ver uma cópia da licença, acesse https://creativecommons.org/licenses/by-nd/2.0/ 
+
+## Dia 1: história do Python e primeiro código
+
+<p align="center"> 
+<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/InfograficoPY.png">
+</p>
+
+**LEITURA DO DIA:** capítulo 1.3 Linguagem de Programação Python, que inclui uma parte intitulada "Pequena História do Python", do livro *Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações* de Ljubomir Perkovic. 
+
+Para começar, o código com a tradicional mensagem "Hello World!":
+
+```python
+#Codigo: Dia1_hello
+#Autora: Carla Edila
+
+#inicio do codigo
+
+print("Hello World!")
+print("Ola Mundo!")
+
+#fim do codigo
+```
+Confira o código [aqui](https://github.com/rosacarla/100-days-of-python-code/blob/346cfba1f1b6c01c9b49359c98f12b0e0052624a/codigos100/dia1_codigo.py) e a execução na IDE Pycharm:
+
+<p align="center"> 
+<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/pycharm1.jpg">
+</p>
 
 ## Licença
 Distribuído sobre a licença do MIT. Veja `LICENSE`para informações adicionais.
