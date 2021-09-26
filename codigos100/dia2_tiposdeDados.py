@@ -1,8 +1,10 @@
-﻿#Codigo: Dia2 Tidos de dados
+﻿#Codigo: Dia2 Tipos de dados
 #Autora: Carla Edila Silveira
 #Finalidade: atividade prática de programação do curso Python Quick Start
 
-# 1 - TIPOS DE DADOS EM PYTHON
+#inicio do codigo
+
+#TIPOS DE DADOS EM PYTHON
 a = True
 print (type(a)) #boleano V
 
