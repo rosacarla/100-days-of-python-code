@@ -4,7 +4,7 @@
 
 <h1 align="center">100-days-of-python-code</h1>
  
-Este repositório contém atividades e códigos em linguagem de programação Python com o objetivo de registrar estudos realizados durante o período de 100 dias. O material de apoio para cumprir o desafio é composto principalmente pelos conteúdos do livro *Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações* de Ljubomir Perkovic e do roteiro *Python Programming Language*, diponiblizado no site www.geeksforgees.org/python-programming-language/.
+Este repositório contém material didático, atividades e códigos em linguagem de programação Python com o objetivo de registrar estudos realizados durante o período de 100 dias. O material de apoio para cumprir o desafio é composto principalmente pelos conteúdos do livro *Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações* de Ljubomir Perkovic e do roteiro *Python Programming Language*, diponiblizado no site www.geeksforgees.org/python-programming-language/.
 
 <p align="center"> 
 <img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/code.jpg">
