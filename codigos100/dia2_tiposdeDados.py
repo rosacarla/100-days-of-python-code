@@ -1,6 +1,6 @@
 ﻿#Codigo: Dia2 Tipos de dados
 #Autora: Carla Edila Silveira
-#Finalidade: atividade prática de programacao do curso Python Quick Start
+#Finalidade: atividade pratica de programacao do curso Python Quick Start
 
 #inicio do codigo
 
