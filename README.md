@@ -42,7 +42,7 @@ Confira o código [aqui](https://github.com/rosacarla/100-days-of-python-code/bl
 ## Dia 2: interpretador de código e tipos de dados em Python
 Para programar em qualquer linguagem, é preciso escolher um interpretador, chamado também de IDE (do inglês Integrated Development Environment) ou Ambiente de Desenvolvimento Integrado, que oferece ferramentas adequadas para criar, testar e executar um software. Neste desafio, uso duas opções de IDE:<br>
 - [PyCharm Community Edition](https://www.jetbrains.com/pt-br/pycharm/download/download-thanks.html?platform=windows&code=PCC) para sistemas Linux e Windows.<br>
-- [Geeksforgeeks](https://ide.geeksforgeeks.org/) em versão online, ou seja, sem necessidade de instalação no computador.<br>
+- [GeeksforGeeks](https://ide.geeksforgeeks.org/) em versão online, ou seja, sem necessidade de instalação no computador.<br>
 
 Vídeo sobre download e instalação do Python
 [![Watch the video](https://img.youtube.com/vi/P2fYSYrRZLU/maxresdefault.jpg)](https://youtu.be/P2fYSYrRZLU)
