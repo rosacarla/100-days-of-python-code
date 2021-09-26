@@ -4,6 +4,6 @@
 # inicio do codigo
 
 print("Hello World!")
-print("Olá Mundo!")
+print("Ola Mundo!")
 
 # fim do codigo
