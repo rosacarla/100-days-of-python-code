@@ -1,5 +1,5 @@
 #Exemplo de código do exercício 5 - classe Aluno
-
+# Define a classe Aluno com métodos para calcular a média das notas.
 class Aluno:
     def __init__(self,n1,n2,n3,n4):
         self.__notas = [n1, n2, n3, n4]
