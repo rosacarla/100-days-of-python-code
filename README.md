@@ -7,7 +7,7 @@
 Este repositório contém material didático, atividades e códigos em linguagem de programação Python com o objetivo de registrar estudos realizados durante o período de 100 dias. O material de apoio para cumprir o desafio é composto principalmente pelos conteúdos do livro *Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações* de Ljubomir Perkovic e do roteiro *Python Programming Language*, diponiblizado no site www.geeksforgees.org/python-programming-language/.
 
 <p align="center"> 
-<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/code.jpg">
+<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/code.jpg" width=560 height=256>
 </p>
 
 ###### "Coding [day 102]" por gerlos é licenciada com CC BY-ND 2.0. Para ver uma cópia da licença, acesse https://creativecommons.org/licenses/by-nd/2.0/ 
@@ -15,7 +15,7 @@ Este repositório contém material didático, atividades e códigos em linguagem
 ## Dia 1: história do Python e primeiro código
 
 <p align="center"> 
-<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/InfograficoPY.png">
+<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/InfograficoPY.png" width=780>
 </p>
 
 **LEITURA DO DIA:** seção 1.3 Linguagem de Programação Python, que inclui uma parte intitulada **Pequena História do Python**, do capítulo 1 do livro de Ljubomir Perkovic. 
@@ -36,7 +36,7 @@ print("Ola Mundo!")
 Confira o código [aqui](https://github.com/rosacarla/100-days-of-python-code/blob/346cfba1f1b6c01c9b49359c98f12b0e0052624a/codigos100/dia1_codigo.py) e a execução na IDE Pycharm:
 
 <p align="center"> 
-<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/pycharm1.jpg">
+<img src="https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/pycharm1.jpg" width=660>
 </p>
 
 ## Dia 2: interpretador de código e tipos de dados em Python
@@ -45,10 +45,12 @@ Para programar em qualquer linguagem, é preciso escolher um interpretador, cham
 - [GeeksforGeeks](https://ide.geeksforgeeks.org/) em versão online, ou seja, sem necessidade de instalação no computador.<br>
 
 Vídeo sobre download e instalação do Python
-[![Watch the video](https://img.youtube.com/vi/P2fYSYrRZLU/maxresdefault.jpg)](https://youtu.be/P2fYSYrRZLU)
+⏯️ [Watch the video](https://youtu.be/P2fYSYrRZLU)<br>
+<img src="https://img.youtube.com/vi/P2fYSYrRZLU/maxresdefault.jpg" width="512">
 
 Vídeo sobre download e instalação da IDE PyCharm
-[![Watch the video](https://img.youtube.com/vi/dqZziLW1w0E/maxresdefault.jpg)](https://youtu.be/dqZziLW1w0E)
+⏯️ [Watch the video](https://youtu.be/dqZziLW1w0E)<br>
+<img src="https://img.youtube.com/vi/dqZziLW1w0E/maxresdefault.jpg" width="512">  
 
 **Observação!** Para instalar o PyCharm no Linux, segui dois tutoriais que contém instruções compatíveis com a distribuição Ubuntu 21.04. Primeiro instalei o pacote Snap, depois usei a opção "Como instalar a versão mais recente da IDE PyCharm no Linux via Snap em distros que suportam a tecnologia". Veja no meu Pinterest o [tutorial 1](https://br.pinterest.com/pin/317855686208379213/) e o [tutorial 2](https://br.pinterest.com/pin/317855686208379208/). 
 
@@ -94,10 +96,7 @@ Código                     |  Saída
 ## [Dia 7:](codigos_diversos/Exemplos_de_operacoes.py) operações numéricas
 ## [Dia 8:](codigos_diversos/calMedia.py) calcular a média
 ## [Dia 9:](codigos100/classe_jogo.py) definir classe 
-## [Dia 10:](codigos_diversos/Classe_aluno.py) definir classe com métodos
-
-
-
+## [Dia 10:](codigos_diversos/Classe_aluno.py) definir classe com método
 
 ---  
 ## Licença
