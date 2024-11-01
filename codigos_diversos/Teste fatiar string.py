@@ -1,4 +1,4 @@
-# Primieira versão tinha erro 
+# Primeira versão continha erro 
 #nome_todo = str("Carla Edila Santos da Rosa Silveira")
 #nome_todo.group(1)
 # Saida: AttributeError: 'str' object has no attribute 'group'
