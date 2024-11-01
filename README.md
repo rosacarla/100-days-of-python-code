@@ -85,9 +85,21 @@ Confira o código [aqui](https://github.com/rosacarla/100-days-of-python-code/bl
 
 Código                     |  Saída
 :-------------------------:|:-------------------------:
-![](https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/geeks2a.jpg)  |  ![](https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/geeks2b.jpg)
+![](https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/geeks2a.jpg)  |  ![](https://github.com/rosacarla/100-days-of-python-code/blob/main/imagens/geeks2b.jpg)  
+   
+## [Dia 3:](codigos_diversos/variavel.py) definição de variável    
+## [Dia 4:](codigos100/variaveis.py) atualizações de variáveis  
+## [Dia 5:](codigos_diversos/Teste_impressoes.py) imprimir texto na tela  
+## [Dia 6:](codigos_diversos/Teste_centralizar_impressao.py) centralizar impressão  
+## [Dia 7:](codigos_diversos/Exemplos_de_operacoes.py) operações numéricas
+## [Dia 8:](codigos_diversos/calMedia.py) calcular a média
+## [Dia 9:](codigos100/classe_jogo.py) definir classe 
+## [Dia 10:](codigos_diversos/Classe_aluno.py) definir classe com métodos
 
 
+
+
+---  
 ## Licença
 Distribuído sobre a licença do MIT. Veja `LICENSE`para informações adicionais.
 
